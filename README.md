@@ -16,5 +16,6 @@
 
 ## Future Things To Do
 - Add driver for other browsers
+- Add test reporting
 - Include mobile testing
 
