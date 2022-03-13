@@ -5,6 +5,11 @@
 - Download the latest chrome WebDriver 
 - Add the correct chrome WebDriver path in src/main/java/DriverFactory.java
 
+## How to execute the test
+- Open the project in IntelliJ
+- Right click src/test/java
+- Select 'Run all tests' (shortcut = ctrl + shift + F10)
+
 ## Frameworks
 - Selenium WebDriver (Chrome)
 - JUnit
